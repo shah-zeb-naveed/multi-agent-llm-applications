@@ -1,6 +1,6 @@
 Repository containing exercise files for the course Build Multi-Agent Applications Using AutoGen.
 
-Exercises cover:
+Course covers:
 1. Agents with Human-in-the-loop and Code Executors
 2. External Tools (Web Scraping using BeautifulSoup and Tavily Search API)
 3. Retrieval Augmented Generation (RAG)
