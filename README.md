@@ -1,5 +1,7 @@
 Repository containing exercise files for the course Build Multi-Agent Applications Using AutoGen.
 
+Full Course on Youtube/Udemy. Playlist Link: https://www.youtube.com/playlist?list=PLlHeJrpDA0jXy_zgfzt2aUvQu3_VS5Yx_
+
 Course covers:
 1. Agents with Human-in-the-loop and Code Executors
 2. External Tools (Web Scraping using BeautifulSoup and Tavily Search API)
