@@ -1,4 +1,4 @@
-Repository containing exercise files for the course Build Multi-Agent Applications Using AutoGen.
+Repository containing exercise files for the course Build Multi-Agent Applications Using AutoGen. Learn to create generative AI applications with multiple agents.
 
 Full Course on Youtube/Udemy. Playlist Link: https://www.youtube.com/playlist?list=PLlHeJrpDA0jXy_zgfzt2aUvQu3_VS5Yx_
 
