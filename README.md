@@ -1,4 +1,4 @@
-# Repository containing exercise files for my course Build Multi-Agent Applications Using AutoGen.
+# Repository containing exercise files for my course Build Multi-Agent LLM Applications Using AutoGen.
 
 Learn to create generative AI applications with multiple agents.
 
