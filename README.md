@@ -1,8 +1,10 @@
-Repository containing exercise files for the course Build Multi-Agent Applications Using AutoGen. Learn to create generative AI applications with multiple agents.
+# Repository containing exercise files for my course Build Multi-Agent Applications Using AutoGen.
+
+Learn to create generative AI applications with multiple agents.
 
 Full Course on Youtube/Udemy. Playlist Link: https://www.youtube.com/playlist?list=PLlHeJrpDA0jXy_zgfzt2aUvQu3_VS5Yx_
 
-Course covers:
+## Course covers:
 1. Agents with Human-in-the-loop and Code Executors
 2. External Tools (Web Scraping using BeautifulSoup and Tavily Search API)
 3. Retrieval Augmented Generation (RAG)
@@ -15,4 +17,5 @@ Course covers:
 
 Please create an Issue if you find a mistake or a bug. 
 
-Credits: Open AI Documentation, AutoGen by Microsoft.
+## Credits: 
+Open AI Documentation, AutoGen by Microsoft.
